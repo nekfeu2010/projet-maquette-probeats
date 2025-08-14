@@ -94,3 +94,5 @@ git push origin main
 Vous pouvez consulter la maquette complète ici :  
 
 [📄 Voir sur Figma](https://www.figma.com/file/TON-LIEN-ICI)
+
+<img src="assets/screens/home.png" alt="Accueil – Probeats" width="800" />
